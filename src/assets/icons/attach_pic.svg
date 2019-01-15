@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>pic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" fill="#4BB1C0" fill-rule="nonzero" x="0" y="0" width="72" height="72" rx="4"></rect>
+            <path d="M15.5,21.1 L15.5,50.1 L56.5,50.1 L56.5,21.1 L15.5,21.1 Z" id="Rectangle-135" stroke="#FFFFFF" stroke-width="3"></path>
+            <polygon id="Combined-Shape" fill="#FFFFFF" points="41.5568187 40.4765257 45.7478846 36.3509452 56.1471645 46.5877363 56.1471645 50 15.2 50 15.2 44.6230996 29.24815 30.2846986 40.3742201 41.6406462 40.3891753 41.6259247 43.281012 44.5806568"></polygon>
+        </g>
+    </g>
+</svg>

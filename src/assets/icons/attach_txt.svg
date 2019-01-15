@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>TXT</title>
+    <desc>Created with Sketch.</desc>
+    <g id="TXT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#548DE4" x="0" y="0" width="72" height="72" rx="4"></rect>
+        <g id="分组" transform="translate(19.000000, 15.000000)">
+            <path d="M23.5714286,0 L23.5714286,8.399457 C23.5714286,9.06619563 24.0995078,9.6 24.7509265,9.6 L32.7485714,9.6 L33,9.88235294 L33,40.531226 C33,41.3438838 32.3532686,42 31.5554849,42 L1.44451512,42 C0.644390797,42 2.84217094e-14,41.34178 2.84217094e-14,40.5298245 L2.84217094e-14,1.47017548 C2.84217094e-14,0.659719706 0.645313344,0 1.44134769,0 L23.5714286,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <path d="M25.9262937,8.4 C25.2766446,8.4 24.75,7.86267521 24.75,7.20231917 L24.75,0.4 L32.6071429,8.4 L25.9262937,8.4 Z" id="Triangle-8" fill="#FFFFFF"></path>
+            <polygon id="Rectangle-156" fill="#548DE4" points="5.89285714 15.6 27.1071429 15.6 27.1071429 17.6 5.89285714 17.6"></polygon>
+            <polygon id="Rectangle-156-Copy-3" fill="#548DE4" points="5.89285714 22 27.1071429 22 27.1071429 24 5.89285714 24"></polygon>
+            <polygon id="Rectangle-156-Copy-4" fill="#548DE4" points="5.89285714 27.6 27.1071429 27.6 27.1071429 29.6 5.89285714 29.6"></polygon>
+        </g>
+    </g>
+</svg>

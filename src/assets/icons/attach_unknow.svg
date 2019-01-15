@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>unknown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="unknown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#708297" x="0" y="0" width="72" height="72" rx="4"></rect>
+        <g transform="translate(20.000000, 16.000000)" fill="#FFFFFF">
+            <path d="M20.8,0 L20.8,9.20028322 C20.8,9.86169858 21.3372617,10.4 22.0000077,10.4 L31.6,10.4 L31.6,37.8635199 C31.6,38.6012086 31.0020179,39.2 30.2643696,39.2 L1.73563041,39.2 C0.995401478,39.2 0.4,38.6009514 0.4,37.8619874 L0.4,1.33801256 C0.4,0.600052066 0.998780383,0 1.73741342,0 L20.8,0 Z" id="Combined-Shape"></path>
+            <path d="M23.2027393,9.2 C22.5384847,9.2 22,8.66560338 22,7.99726067 L22,0 L31.2,9.2 L23.2027393,9.2 Z" id="Triangle-8"></path>
+        </g>
+    </g>
+</svg>

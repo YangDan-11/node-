@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>word</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="多附件样式" transform="translate(-40.000000, -826.000000)">
+            <g id="附件" transform="translate(0.000000, 549.000000)">
+                <g id="1" transform="translate(40.000000, 242.000000)">
+                    <g id="word" transform="translate(0.000000, 35.000000)">
+                        <g>
+                            <rect id="矩形" fill="#2E5EA6" fill-rule="nonzero" x="0" y="0" width="72" height="72" rx="4"></rect>
+                            <path d="M19.9978948,15.6 L52.4021052,15.6 C53.0603591,15.6 53.6,16.1378624 53.6,16.8013492 L53.6,53.9986508 C53.6,54.662734 53.0636842,55.2 52.4021052,55.2 L19.9978948,55.2 C19.3396409,55.2 18.8,54.6621376 18.8,53.9986508 L18.8,16.8013492 C18.8,16.137266 19.3363158,15.6 19.9978948,15.6 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                            <polygon id="Rectangle-156" fill="#2E5EA6" points="26 24 46.4 24 46.4 26 26 26"></polygon>
+                            <polygon id="Rectangle-156-Copy" fill="#2E5EA6" points="26 31.2 46.4 31.2 46.4 33.2 26 33.2"></polygon>
+                            <polygon id="Rectangle-156-Copy-2" fill="#2E5EA6" points="26 36 46.4 36 46.4 38 26 38"></polygon>
+                            <polygon id="Rectangle-156-Copy-4" fill="#2E5EA6" points="26 40.8 41.6 40.8 41.6 42.8 26 42.8"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
