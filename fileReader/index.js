@@ -18,8 +18,13 @@ function readdirSync() {
 };
 //读取文件内容
 function readfile(tempFilePath) {
-    let string = fs.readFileSync(tempFilePath, 'utf-8');//同步获取文件内容
-
+    try{
+        let string = fs.readFileSync(tempFilePath, 'utf-8');//同步获取文件内容
+        return string;
+    }catch(e){
+        throw(e);
+    }
+    
     // fs.readFile(tempFilePath, function (err, data) {//异步获取文件内容
     //     if (err) {
     //         console.log(err);
@@ -27,10 +32,10 @@ function readfile(tempFilePath) {
     //         console.log(data.toString());
     //     }
     // });
-    return string;
+    
 
 }
-//创建文件夹写入文件
+//异步创建文件夹写入文件
 function writeFile(mdName, str) {
     fs.writeFile(docPath + '/' + mdName, str, 'utf8', function (error) {
         if (error) {
@@ -40,18 +45,19 @@ function writeFile(mdName, str) {
         console.log('写入成功')
     })
 }
+
+var template = "### 这是{{{item}}}的md文件\n\```html\n"+
+"{{{codeString}}} \n\```\n";
+
 function dealFile() {
     var fileList = readdirSync();
     //读取文件内容
     fileList.forEach(function (item, index) {
         var vueFilePath = componentPath + '/' + item;
-
         var codeString = readfile(vueFilePath);
-
         var mdName = item.replace(/\.vue$/, '.md');
-        var str =
-            "### 这是" + item + "的md文件\n\```html\n" +
-            codeString + "\n\```\n";
+        template = template.replace('{{{item}}}',item);
+        var str = template.replace('{{{codeString}}}',codeString);
         writeFile(mdName, str)
     })
 }
